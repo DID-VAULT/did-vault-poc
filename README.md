@@ -1,7 +1,4 @@
-My apologies! It seems there was an error and the content for the README.md file didn't come through correctly.
 
-Here is the complete, professional README.md content again. Please copy this entire text and paste it into the README.md file in your GitHub repository.
-Markdown
 
 # DID Vault: A Verifiable Credential PoC for DPDP Act Compliance
 
